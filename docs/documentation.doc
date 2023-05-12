@@ -1,0 +1,9 @@
+
+### Load Balancer with nginx in nomad
+https://developer.hashicorp.com/nomad/tutorials/load-balancing/load-balancing-nginx
+
+### Docker in Nomad
+https://4sysops.com/archives/hashicorp-nomad-an-easy-to-use-kubernetes-alterative-for-orchestrating-containers/
+
+### Scaling
+https://developer.hashicorp.com/nomad/tools/autoscaling/policy
